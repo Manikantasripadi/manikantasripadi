@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantasripadi&label=Profile%20views&color=0e75b6&style=flat" alt="manikantasripadi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manikantasripad" target="blank"><img src="https://img.shields.io/twitter/follow/neoistone?logo=twitter&style=for-the-badge" alt="neoistone" /></a> </p>
+<p align="left"> <a href="https://twitter.com/manikantasripad" target="blank"><img src="https://img.shields.io/twitter/follow/manikantasripad?logo=twitter&style=for-the-badge" alt="neoistone" /></a> </p>
 
 - 🔭 I’m currently working on [HOSTING MANAGAMENT SYSTEM](https://hostingaro.com)
 
