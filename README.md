@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikantasripadi</h1>
-<h3 align="center">India startup company Neoistone</h3>
+<h3 align="center">Founder & Ceo Neoistone (Neoistone Technologies LLP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantasripadi&label=Profile%20views&color=0e75b6&style=flat" alt="manikantasripadi" /> </p>
 
