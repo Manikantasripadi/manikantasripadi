@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **neural networks and deep learning**
 
-- 📝 I regularly write articles on [blog.neoistone.com](https://neoistone.com/blog)
+- 📝 I regularly write articles on [neoistone.com/blog](https://neoistone.com/blog)
 
 - ⚡ Fun fact **I think i am funyy**
 
